@@ -1,4 +1,31 @@
-.App {
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.app {
   font-family: sans-serif;
+  display: flex;
+  height: 100vh;
   text-align: center;
+}
+
+.nav,
+.body {
+  padding: 2rem;
+}
+
+.nav {
+  flex: 0 160px;
+  height: 100%;
+  background-color: whitesmoke;
+}
+
+.body {
+  flex: 1 0 auto;
 }
