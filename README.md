@@ -11,7 +11,7 @@ yarn start
 
 ## Article
 This codebase is meant as a reference to a Medium article I wrote. Please give it a read for a full explanation.
-[https://duckduckgo.com](Medium Article)
+[Medium Article](https://duckduckgo.com)
 
 ## License
 
